@@ -1,0 +1,302 @@
+{
+  "metadata": {
+    "last_session": "2025-09-06",
+    "total_sessions": 7,
+    "current_focus": "particle_complexity_and_adjective_conjugation",
+    "target_level": "N2",
+    "estimated_current_level": "Late A1/Early A2 (N5-N4 bridge)",
+    "learning_objectives_file": "learning-objectives.md",
+    "system_overview_file": "system-overview.md",
+    "engagement_level": 4,
+    "last_assessment": null,
+    "next_assessment_due": "2025-10-06"
+  },
+  "analytics": {
+    "recognition_accuracy": {
+      "overall": 0.73,
+      "kanji": 0.65,
+      "vocabulary": 0.78,
+      "grammar": 0.76
+    },
+    "production_accuracy": {
+      "overall": 0.42,
+      "kanji": 0.30,
+      "vocabulary": 0.48,
+      "grammar": 0.48
+    },
+    "error_patterns": {
+      "particle_confusion": {"は_が": 5, "に_で": 3, "を_が": 2},
+      "tense_errors": {"past_for_present": 1, "present_for_future": 2},
+      "word_order": {"svo_intrusion": 3, "adjective_placement": 1}
+    },
+    "learning_velocity": {
+      "kanji_per_week": 3.5,
+      "words_per_week": 8.2,
+      "patterns_per_week": 2.1
+    },
+    "session_metrics": {
+      "average_intensity": 7.2,
+      "average_duration_minutes": 45,
+      "pressure_scenario_success": 0.0,
+      "pattern_recognition_speed_sec": 4.5
+    },
+    "mastery_progress": {
+      "n5_kanji": "11/80",
+      "n4_kanji": "0/170", 
+      "n5_grammar": "15/50",
+      "n4_grammar": "3/130"
+    },
+    "context_variety_score": 3.2,
+    "burnout_indicators": {
+      "session_frequency_declining": false,
+      "error_rate_increasing": false,
+      "engagement_dropping": false
+    }
+  },
+  "kanji": {
+    "学": {
+      "meaning": "study/learning",
+      "readings": ["がく", "まな"],
+      "exposure_count": 2,
+      "recognition_level": 3,
+      "production_level": 2,
+      "seen_in": ["学生", "学校"],
+      "last_seen": "2025-01-30",
+      "last_produced": null,
+      "jlpt_level": "N5",
+      "frequency_rank": 51,
+      "grade_level": 1,
+      "error_log": [],
+      "mastery_depth": "partial",
+      "pattern_family": "education",
+      "etymology": "Picture of child under roof with hands - learning"
+    },
+    "生": {
+      "meaning": "life/birth/student",
+      "readings": ["せい", "しょう", "い"],
+      "exposure_count": 2,
+      "recognition_level": 3,
+      "seen_in": ["学生", "先生"],
+      "last_seen": "2025-01-30",
+      "jlpt_level": "N5",
+      "frequency_rank": 26,
+      "grade_level": 1
+    },
+    "先": {
+      "meaning": "ahead/previous",
+      "readings": ["せん"],
+      "exposure_count": 1,
+      "recognition_level": 3,
+      "seen_in": ["先生"],
+      "last_seen": "2025-01-30"
+    },
+    "日": {
+      "meaning": "sun/day",
+      "readings": ["にち", "に", "ひ", "び"],
+      "exposure_count": 3,
+      "recognition_level": 4,
+      "seen_in": ["日本", "今日", "昨日", "月曜日"],
+      "last_seen": "2025-01-30",
+      "jlpt_level": "N5",
+      "frequency_rank": 2,
+      "grade_level": 1
+    },
+    "本": {
+      "meaning": "book/origin/main",
+      "readings": ["ほん", "もと"],
+      "exposure_count": 1,
+      "recognition_level": 3,
+      "seen_in": ["日本"],
+      "last_seen": "2025-01-30",
+      "jlpt_level": "N5",
+      "frequency_rank": 3,
+      "grade_level": 1
+    },
+    "校": {
+      "meaning": "school",
+      "readings": ["こう"],
+      "exposure_count": 1,
+      "recognition_level": 3,
+      "seen_in": ["学校"],
+      "last_seen": "2025-08-31"
+    },
+    "昨": {
+      "meaning": "previous/yesterday",
+      "readings": ["さく"],
+      "exposure_count": 2,
+      "recognition_level": 3,
+      "seen_in": ["昨日"],
+      "last_seen": "2025-08-31"
+    },
+    "元": {
+      "meaning": "origin/source",
+      "readings": ["げん", "もと"],
+      "exposure_count": 1,
+      "recognition_level": 2,
+      "seen_in": ["元気"],
+      "last_seen": "2025-08-31"
+    },
+    "気": {
+      "meaning": "spirit/energy/ki",
+      "readings": ["き", "け"],
+      "exposure_count": 3,
+      "recognition_level": 3,
+      "seen_in": ["元気", "天気", "人気"],
+      "last_seen": "2025-08-31"
+    },
+    "天": {
+      "meaning": "heaven/sky",
+      "readings": ["てん", "あま"],
+      "exposure_count": 1,
+      "recognition_level": 2,
+      "seen_in": ["天気"],
+      "last_seen": "2025-08-31"
+    },
+    "人": {
+      "meaning": "person",
+      "readings": ["にん", "じん", "ひと"],
+      "exposure_count": 1,
+      "recognition_level": 2,
+      "seen_in": ["人気"],
+      "last_seen": "2025-08-31",
+      "jlpt_level": "N5",
+      "frequency_rank": 1,
+      "grade_level": 1
+    },
+    "病": {
+      "meaning": "illness/sickness",
+      "readings": ["びょう", "やまい"],
+      "exposure_count": 1,
+      "recognition_level": 1,
+      "seen_in": ["病気"],
+      "last_seen": "2025-09-06",
+      "jlpt_level": "N4",
+      "frequency_rank": 234,
+      "grade_level": 3
+    }
+  },
+  "words": {
+    "こんにちは": {
+      "recognition_level": 5,
+      "production_level": 5,
+      "last_seen": null,
+      "last_produced": null,
+      "contexts_seen": 0,
+      "jlpt_level": "N5",
+      "error_patterns": [],
+      "context_categories": [],
+      "mastery_depth": "complete"
+    },
+    "ありがとう": {"level": 5, "last_seen": null, "contexts_seen": 0, "jlpt_level": "N5"},
+    "はい": {"level": 5, "last_seen": null, "contexts_seen": 0, "jlpt_level": "N5"},
+    "いいえ": {"level": 5, "last_seen": null, "contexts_seen": 0, "jlpt_level": "N5"},
+    "わたし": {"level": 5, "last_seen": null, "contexts_seen": 0, "jlpt_level": "N5"},
+    "です": {"level": 4, "last_seen": null, "contexts_seen": 0, "jlpt_level": "N5"},
+    "学生": {"level": 3, "last_seen": null, "contexts_seen": 0, "readings": ["がくせい"], "jlpt_level": "N5"},
+    "先生": {"level": 3, "last_seen": null, "contexts_seen": 0, "readings": ["せんせい"], "jlpt_level": "N5"},
+    "日本": {"level": 3, "last_seen": null, "contexts_seen": 0, "readings": ["にほん", "にっぽん"], "jlpt_level": "N5"},
+    "月曜日": {"level": 4, "last_seen": null, "contexts_seen": 0, "readings": ["げつようび"]},
+    "火曜日": {"level": 4, "last_seen": null, "contexts_seen": 0, "readings": ["かようび"]},
+    "水曜日": {"level": 4, "last_seen": null, "contexts_seen": 0, "readings": ["すいようび"]},
+    "来週": {"level": 3, "last_seen": null, "contexts_seen": 0, "readings": ["らいしゅう"]},
+    "来月": {"level": 3, "last_seen": null, "contexts_seen": 0, "readings": ["らいげつ"]},
+    "学校": {"level": 4, "last_seen": "2025-08-31", "contexts_seen": 2, "readings": ["がっこう"]},
+    "昨日": {"level": 4, "last_seen": "2025-08-31", "contexts_seen": 3, "readings": ["きのう", "さくじつ"]},
+    "食べる": {"level": 4, "last_seen": "2025-08-31", "contexts_seen": 1, "readings": ["たべる"]},
+    "食べました": {"level": 3, "last_seen": "2025-08-31", "contexts_seen": 2, "readings": ["たべました"]},
+    "飲む": {"level": 3, "last_seen": "2025-08-31", "contexts_seen": 1, "readings": ["のむ"]},
+    "飲みました": {"level": 3, "last_seen": "2025-08-31", "contexts_seen": 1, "readings": ["のみました"]},
+    "たこ": {"level": 2, "last_seen": "2025-08-31", "contexts_seen": 1, "readings": ["たこ"]},
+    "たこ焼き": {"level": 2, "last_seen": "2025-08-31", "contexts_seen": 1, "readings": ["たこやき"]},
+    "涼しい": {"level": 3, "last_seen": "2025-08-31", "contexts_seen": 1, "readings": ["すずしい"]},
+    "危険": {"level": 2, "last_seen": "2025-08-31", "contexts_seen": 1, "readings": ["きけん"]},
+    "でも": {"level": 3, "last_seen": "2025-08-31", "contexts_seen": 1, "readings": ["でも"]},
+    "度": {"level": 1, "last_seen": "2025-08-31", "contexts_seen": 1, "readings": ["ど"]},
+    "暑さ": {"level": 2, "last_seen": "2025-08-31", "contexts_seen": 1, "readings": ["あつさ"]},
+    "海": {"level": 2, "last_seen": "2025-08-31", "contexts_seen": 3, "readings": ["うみ"]},
+    "波": {"level": 2, "last_seen": "2025-08-31", "contexts_seen": 2, "readings": ["なみ"]},
+    "深い": {"level": 2, "last_seen": "2025-08-31", "contexts_seen": 2, "readings": ["ふかい"]},
+    "浅い": {"level": 1, "last_seen": "2025-08-31", "contexts_seen": 1, "readings": ["あさい"]},
+    "砂": {"level": 2, "last_seen": "2025-08-31", "contexts_seen": 2, "readings": ["すな"]},
+    "音": {"level": 1, "last_seen": "2025-08-31", "contexts_seen": 1, "readings": ["おと"]},
+    "遊ぶ": {"level": 1, "last_seen": "2025-08-31", "contexts_seen": 1, "readings": ["あそぶ"]},
+    "遊びました": {"level": 2, "last_seen": "2025-08-31", "contexts_seen": 2, "readings": ["あそびました"]},
+    "元気": {"level": 3, "last_seen": "2025-08-31", "contexts_seen": 2, "readings": ["げんき"]},
+    "天気": {"level": 3, "last_seen": "2025-08-31", "contexts_seen": 3, "readings": ["てんき"]},
+    "人気": {"level": 2, "last_seen": "2025-08-31", "contexts_seen": 2, "readings": ["にんき"]},
+    "病気": {"level": 1, "last_seen": "2025-09-06", "contexts_seen": 1, "readings": ["びょうき"], "jlpt_level": "N4"},
+    "青い": {"level": 2, "last_seen": "2025-08-31", "contexts_seen": 1, "readings": ["あおい"]},
+    "美しい": {"level": 2, "last_seen": "2025-08-31", "contexts_seen": 1, "readings": ["うつくしい"]},
+    "高い": {"level": 3, "last_seen": "2025-08-31", "contexts_seen": 3, "readings": ["たかい"]},
+    "暑い": {"level": 4, "last_seen": "2025-09-06", "contexts_seen": 2, "readings": ["あつい"]},
+    "良い": {"level": 3, "last_seen": "2025-09-06", "contexts_seen": 2, "readings": ["いい", "よい"]},
+    "悪い": {"level": 2, "last_seen": "2025-09-06", "contexts_seen": 2, "readings": ["わるい"]}
+  },
+  "grammar_patterns": {
+    "XはYです": {"level": 4, "last_seen": null, "notes": "X is Y pattern"},
+    "particles_basic": {"level": 4, "last_seen": null, "notes": "は、を、に、で、と"},
+    "present_tense": {"level": 3, "last_seen": null, "notes": "Basic present tense verbs"},
+    "past_tense_mashita": {"level": 4, "last_seen": "2025-08-31", "notes": "Polite past tense: verb stem + ました"},
+    "i_adjective_past": {"level": 4, "last_seen": "2025-08-31", "notes": "い-adjective past: drop い, add かった"},
+    "becoming_pattern": {"level": 3, "last_seen": "2025-08-31", "notes": "Change vs state: い-adj → drop い, add く + なります"},
+    "na_adjective_types": {"level": 3, "last_seen": "2025-08-31", "notes": "Chinese loanwords use な, native Japanese use い endings"},
+    "te_form_adjectives": {"level": 3, "last_seen": "2025-08-31", "notes": "い-adj: drop い + くて for connecting clauses"},
+    "ga_arimasu_pattern": {"level": 2, "last_seen": "2025-08-31", "notes": "があります = there is/exists/has for non-living things"},
+    "sa_nominalization": {"level": 2, "last_seen": "2025-08-31", "notes": "さ ending turns adjectives into nouns: 暑い→暑さ"},
+    "no_particle_connection": {"level": 3, "last_seen": "2025-08-31", "notes": "の connects nouns: possession, description, relationship"},
+    "to_particle_sound": {"level": 1, "last_seen": "2025-08-31", "notes": "と marks quoted sounds: チャプチャプと"},
+    "i_adj_past_casual": {"level": 2, "last_seen": "2025-08-31", "notes": "かった = casual past, かったです = polite past"},
+    "ga_conjunction": {"level": 3, "last_seen": "2025-09-06", "notes": "が as 'but/however' - different from が subject marker"},
+    "node_causal": {"level": 3, "last_seen": "2025-09-06", "notes": "ので = because/so, い-adj + ので, noun + な + ので"},
+    "na_applicative": {"level": 3, "last_seen": "2025-09-06", "notes": "な applies noun concepts: 病気な人, 病気なので"},
+    "ii_irregular": {"level": 3, "last_seen": "2025-09-06", "notes": "いい conjugates like よい: よかった, よく"}
+  },
+  "proficiency_scale": {
+    "0": "Never seen",
+    "1": "Just introduced",
+    "2": "Seen a few times, still struggling",
+    "3": "Recognizing with effort",
+    "4": "Comfortable but needs practice",
+    "5": "Mastered - instant recognition"
+  },
+  "learning_priorities": {
+    "next_kanji_targets": {
+      "frequency_1_10": ["一", "国", "年", "大", "十", "二", "中", "長", "出"],
+      "note": "Focus on top 50 most frequent kanji for immediate utility"
+    },
+    "jlpt_progression": {
+      "current_estimate": "N5-N4 bridge",
+      "n4_target_date": "2025-12-06",
+      "n3_target_date": "2026-03-06",
+      "n2_target_date": "2026-09-06"
+    },
+    "pattern_mastery_targets": [
+      "Complete て-form system",
+      "Master は/が distinction",
+      "Transitive/intransitive pairs"
+    ],
+    "crisis_scenario_training": [
+      "Medical emergency communication",
+      "Airport/travel problems",
+      "Technical support requests"
+    ]
+  },
+  "metacognitive_log": {
+    "effective_strategies": [
+      "Pattern recognition over memorization",
+      "Kanji etymology helps retention"
+    ],
+    "confusion_points": [
+      "は/が distinction still unclear in some contexts",
+      "Transitive/intransitive verb pairs"
+    ],
+    "motivation_triggers": [
+      "Seeing patterns connect",
+      "Understanding systematic rules"
+    ],
+    "energy_patterns": {
+      "high_energy_times": "evening sessions",
+      "low_energy_indicators": "repetitive errors"
+    }
+  }
+}
